@@ -1,4 +1,4 @@
-### Oi, oi! 😊 Eu sou a Larissa Mello.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2FA4FF&size=35&center=true&vCenter=true&width=1000&lines=Oi,oi!+😊;Meu+nome+é+Larissa+Mello,;Sou+estudante+de+Desenvolvimento+Web.)](https://git.io/typing-svg)
 
 - Hoje estudando CSS3
 - Front-End (loading...)
