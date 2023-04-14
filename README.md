@@ -10,7 +10,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Larissa-i&layout=compact&hide_border=true&title_color=2FA4FF&text_color=2FA4FF&bg_color=000000" />
 </div>
 
-- CSS:
+- CSS3:
          [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=17&center=false&vCenter=false&width=1000&lines=(loading...))](https://git.io/typing-svg) 
 
 
