@@ -11,7 +11,7 @@
 </div>
 
 - CSS3:
-         [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=17&center=false&vCenter=false&width=1000&lines=(loading...))](https://git.io/typing-svg) 
+         [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=17&center=false&vCenter=false&width=960&lines=(loading...))](https://git.io/typing-svg) 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2FA4FF&height=120&section=footer"/>
