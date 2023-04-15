@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=i-Larissa-i&show_icons=true&count_private=true&hide_border=true&title_color=2FA4FF&icon_color=2FA4FF&text_color=d3e2f7&bg_color=000000" alt="Larissa Mello github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Larissa-i&layout=compact&hide_border=true&title_color=2FA4FF&text_color=2FA4FF&bg_color=000000" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=i-Larissa-i&show_icons=true&count_private=true&hide_border=true&title_color=2FA4FF&icon_color=2FA4FF&text_color=d3e2f7&bg_color=000000" alt="Larissa Mello github stats" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Larissa-i&layout=compact&hide_border=true&title_color=2FA4FF&text_color=2FA4FF&bg_color=000000" />
 </div>
 
 
