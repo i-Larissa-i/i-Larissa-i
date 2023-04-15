@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2FA4FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&center=true&vCenter=true&width=1000&lines=Oi,oi!+😊;Meu+nome+é+Larissa+Mello,;Sou+estudante+de+Desenvolvimento+Web.)](https://git.io/typing-svg)
-
-
-<div align="center">  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=i-Larissa-i&show_icons=true&count_private=true&hide_border=true&title_color=2FA4FF&icon_color=2FA4FF&text_color=d3e2f7&bg_color=000000" alt="Larissa Mello github stats" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Larissa-i&layout=compact&hide_border=true&title_color=2FA4FF&text_color=2FA4FF&bg_color=000000" />
+  
+ <div>
+    <a href="https://github.com/i-Larissa-i?tab=repositories"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-Larissa-i&show_icons=true&theme=codecobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Larissa-i&langs_count=10&layout=compact&theme=codecobalt"/>
 </div>
 
 
