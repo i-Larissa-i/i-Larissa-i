@@ -4,8 +4,6 @@
     
   <br>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-Larissa-i&bg_color=191825&color=2FA4FF&line=2FA4FF&point=865DFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 
 ### 📌Estudando neste momento:
 <div>
